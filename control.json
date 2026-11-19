@@ -1,7 +1,7 @@
 {
   "crash_app": false,
   "toast": {
-    "enabled": true,
+    "enabled": false,
     "message": "Connected successfully"
   },
   "emergency": {
@@ -13,7 +13,7 @@
     "cancellable": false
   },
   "alert": {
-    "enabled": true,
+    "enabled": false,
     "title": "UPDATE AVAILABLE",
     "message": "A new version is available with improved stability and performance.",
     "positive_text": "UPDATE NOW",
