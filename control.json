@@ -1,0 +1,24 @@
+{
+  "crash_app": false,
+  "toast": {
+    "enabled": true,
+    "message": "Connected successfully"
+  },
+  "emergency": {
+    "enabled": false,
+    "title": "SERVICE SUSPENDED",
+    "message": "This version is currently disabled for urgent maintenance. Please contact support for updates.",
+    "button_text": "CONTACT SUPPORT",
+    "button_url": "https://t.me/dp_mods",
+    "cancellable": false
+  },
+  "alert": {
+    "enabled": true,
+    "title": "UPDATE AVAILABLE",
+    "message": "A new version is available with improved stability and performance.",
+    "positive_text": "UPDATE NOW",
+    "positive_url": "https://dpmods.com",
+    "negative_text": "LATER",
+    "cancellable": true
+  }
+}
